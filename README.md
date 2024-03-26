@@ -23,6 +23,10 @@ Preview of the Project
     ```bash
     python -m streamlit run app.py
     ```
+    > If its saying no access or OSError
+    > ```bash
+    > pip install --user pandas matplotlib seaborn numpy streamlit plotly scikit-learn
+    > ```
 
     - For Linux/Mac:
 
