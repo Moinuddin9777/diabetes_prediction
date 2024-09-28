@@ -34,4 +34,3 @@ Preview of the Project
     python3 -m streamlit run app.py
     ```
 
-https://diabetes-prediction-main.streamlit.app/
