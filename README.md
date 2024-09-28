@@ -33,3 +33,5 @@ Preview of the Project
     ```bash
     python3 -m streamlit run app.py
     ```
+
+https://diabetes-prediction-peod.streamlit.app/
